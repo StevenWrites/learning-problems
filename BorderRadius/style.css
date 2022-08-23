@@ -17,4 +17,7 @@ body {
 
 img{
     width: 20vw;
+    border: 2px solid black;
+    border-radius: 0px;
+    border-collapse: true;
 }
